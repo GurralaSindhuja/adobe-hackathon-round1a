@@ -44,6 +44,7 @@ adobe-hackathon/
 ### 🛠 1. Build Docker Image
 
 ```bash
+cd round1a
 docker build --platform linux/amd64 -t pdf-outliner:latest .
 ```
 🚀 2. Run Docker Container
